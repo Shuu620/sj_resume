@@ -1,0 +1,80 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Play:wght@400;700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aladin&family=Atma:wght@300;400;500;600;700&family=Bangers&family=Barriecito&family=DynaPuff:wght@400..700&family=Flavors&family=Fontdiner+Swanky&family=Galindo&family=Give+You+Glory&family=Homemade+Apple&family=Indie+Flower&family=Kablammo&family=Kranky&family=Londrina+Shadow&family=Love+Light&family=Love+Ya+Like+A+Sister&family=Mountains+of+Christmas:wght@400;700&family=Pacifico&family=Ribeye+Marrow&family=Unkempt:wght@400;700&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&family=Nanum+Gothic&family=Nanum+Gothic+Coding&family=Nanum+Myeongjo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=Black+And+White+Picture&family=Diphylleia&family=Dokdo&family=Dongle&family=East+Sea+Dokdo&family=Gaegu&family=Gamja+Flower&family=Grandiflora+One&family=Gugi&family=Hi+Melody&family=Jua&family=Kirang+Haerang&family=Moirai+One&family=Orbit&display=swap');
+
+.oswald{font-family: "Oswald", sans-serif;}
+.monoton{font-family: "Monoton", sans-serif;}
+
+.play{font-family: "Play ", sans-serif;}
+.titillium{font-family: "Titillium", sans-serif;}
+.opensans{font-family: "Open Sans", sans-serif;}
+.montserrat{font-family: "Montserrat", sans-serif;}
+.raleway{font-family: "Raleway", sans-serif;}
+.notosans{font-family: "Noto Sans", sans-serif;}
+.notoserif{font-family: "Noto Serif", sans-serif;}
+.anton{font-family: "Anton", sans-serif;}
+
+/* 영문폰트 20개 */
+.kranky{font-family: "Kranky", sans-serif;}
+.barriecito{font-family: "Barriecito", sans-serif;}
+.bangers{font-family: "Bangers", sans-serif;}
+.atma{font-family: "Atma", sans-serif;}
+.flavors{font-family: "Flavors", sans-serif;}
+.fontdinerswanky{font-family: "Fontdiner Swanky", sans-serif;}
+.galindo{font-family: "Galindo", sans-serif;}
+.unkempt{font-family: "Unkempt", sans-serif;}
+.londrinashadow{font-family: "Londrina Shadow", sans-serif;}
+.loveyalikeasister{font-family: "Love Ya Like A Sister", sans-serif;}
+.mountainsofchristmas{font-family: "Mountains of Christmas", sans-serif;}
+.aladin{font-family: "Aladin", sans-serif;}
+.ribeyemarrow{font-family: "Ribeye Marrow", sans-serif;}
+.indieflower{font-family: "Indie Flower", sans-serif;}
+.giveyouglory{font-family: "Give You Glory", sans-serif;}
+.lovelight{font-family: "Love Light", sans-serif;}
+.pacifico{font-family: "Pacifico", sans-serif;}
+.dynapuff{font-family: "DynaPuff", sans-serif;}
+.homemadeapple{font-family: "Homemade Apple", sans-serif;}
+.sendflowers{font-family: "Send Flowers", sans-serif;}
+
+/* Noto 관련 한글폰트 */
+.notosanskr{font-family: "Noto Sans KR", sans-serif;}
+.notoserifkr{font-family: "Noto Serif KR", sans-serif;}
+
+/* 나눔관련 한글폰트 */
+.nanumgothic{font-family: "Nanum Gothic", sans-serif;}
+.nanumgothiccoding{font-family: "Nanum Gothic Coding", sans-serif;}
+.nanummyeongjo{font-family: "Nanum Myeongjo", sans-serif;}
+.nanumbrushscript{font-family: "Nanum Brush Script", sans-serif;}
+.nanumpenscript{font-family: "Nanum Pen Script", cursive;}
+
+/* 한글폰트 15개 */
+.kiranghaerang{font-family: "Kirang Haerang", sans-serif;}
+.dokdo{font-family: "Dokdo", sans-serif;}
+.eastseadokdo{font-family: "East Sea Dokdo", sans-serif;}
+.moiraione{font-family: "Moirai One", sans-serif;}
+.bagelfatone{font-family: "Bagel Fat One", sans-serif;}
+.jua{font-family: "Jua", sans-serif;}
+.gamjaflower{font-family: "Gamja Flower", sans-serif;}
+.blackandwhitepicture{font-family: "Black And White Picture", sans-serif;}
+.himelody{font-family: "Hi Melody", sans-serif;}
+.gaegu{font-family: "Gaegu", sans-serif;}
+.diphylleia{font-family: "Diphylleia", sans-serif;}
+.dongle{font-family: "Dongle", sans-serif;}
+.grandifloraone{font-family: "Grandiflora One", sans-serif;}
+.gugi{font-family: "Gugi", sans-serif;}
+.orbit{font-family: "Orbit", sans-serif;}
+
+
+
+
+
